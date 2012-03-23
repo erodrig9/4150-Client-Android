@@ -1,0 +1,1 @@
+Android client application used to communicate with the 4150 server application.
